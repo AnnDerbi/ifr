@@ -1,7 +1,7 @@
 # Общая информация
 **Сычева Вера Ивановна** (менеджер программы) vsycheva@hse.ru
 
-**[Файл с расписанием и для записи на треки дисциплины]([*Инвестиции на финансовых рынках 2024-2026 - Google Таблицы](https://docs.google.com/spreadsheets/d/1hFOoC1af4pV6omUc92eYhGxcrEVsbigJ9kn56WNL3EU/edit?gid=0#gid=0))**
+**[Файл с расписанием и для записи на треки дисциплины](https://docs.google.com/spreadsheets/d/1hFOoC1af4pV6omUc92eYhGxcrEVsbigJ9kn56WNL3EU/edit?gid=0#gid=0)**
 
 **[Словарь](Словарь.md)**
 # Дисциплины
