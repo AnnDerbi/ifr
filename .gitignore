@@ -5,5 +5,5 @@
 .trash/
 .DS_Store
 
-# Temp file
-tmp.md
+# Temp files
+Temp/
